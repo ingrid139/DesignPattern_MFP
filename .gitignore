@@ -52,3 +52,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/DesignPattern_MFP/.vs/DesignPattern_MFP
+/.vs/DesignPattern_MFP/v17
+/.vs/VSWorkspaceState.json
+/DesignPattern_MFP/DesignPattern_MFP.csproj.user
